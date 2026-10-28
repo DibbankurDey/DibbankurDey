@@ -41,7 +41,7 @@ Pre-final-year **B.Tech CSE (Data Science)** student at **VIT Vellore** (2024–
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DibbankurDey&theme=github-compact&bg_color=0d1117&color=3fb950&line=238636&point=ffffff&hide_border=true&area=true" alt="contribution graph" width="95%" />
+<img src="https://ghchart.rshah.org/3fb950/DibbankurDey" alt="contribution graph" width="95%" />
 
 </div>
 
