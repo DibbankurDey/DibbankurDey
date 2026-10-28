@@ -41,7 +41,7 @@ Pre-final-year **B.Tech CSE (Data Science)** student at **VIT Vellore** (2024–
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/3fb950/DibbankurDey" alt="contribution graph" width="95%" />
+<img src="./contributions.svg" alt="contribution graph" width="95%" />
 
 </div>
 
