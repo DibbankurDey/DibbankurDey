@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=140&section=header&text=Dibbankur%20Dey&fontColor=ffffff&fontSize=44&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20hub%20%E2%80%94%20explore%20my%20projects%20and%20contributions&descSize=15&descAlignY=65" alt="banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3FB950&center=true&vCenter=true&width=560&lines=Data+Science+%26+ML%2FAI+student+%40+VIT+Vellore;Building+RAG%2C+AutoML+%26+LLM+tools;Open+to+internships+and+collaborations)](https://github.com/DibbankurDey)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=3FB950&center=true&vCenter=true&width=560&lines=Aspiring+Software+Engineer+%40+VIT+Vellore;AI+%26+DSA+enthusiast+%7C+Python+%26+C+developer;Designing+Solutions%2C+Building+the+Future)](https://github.com/DibbankurDey)
 
 ![Followers](https://img.shields.io/github/followers/DibbankurDey?style=for-the-badge&logo=github&color=238636&labelColor=0d1117)
 ![Repos](https://img.shields.io/badge/Role-Student%20Developer-238636?style=for-the-badge&labelColor=0d1117)
@@ -20,9 +20,9 @@
 
 ## 👤 About
 
-Pre-final-year **B.Tech CSE (Data Science)** student at **VIT Vellore** (2024–2028), targeting **data science and ML/AI internships**. I like shipping complete products around ML ideas: data in, a working app out.
+Pre-final-year **B.Tech CSE (Data Science)** student at **VIT Vellore** (2024–2028), aspiring software engineer seeking **software development, AI and data science internships**. I build practical AI-powered tools in **Python** and **C**, and I'm an **AI and DSA enthusiast**. *Designing solutions, building the future.*
 
-`Popular focus` · **RAG** · **AutoML** · **LLM fine-tuning** · **Computer Vision**
+`Focus` · **LLMs & RAG** · **Computer Vision** · **Data Structures & Algorithms** · **Scalable solutions**
 
 ---
 
@@ -61,6 +61,9 @@ Pre-final-year **B.Tech CSE (Data Science)** student at **VIT Vellore** (2024–
 **Core technologies**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -93,15 +96,24 @@ Pre-final-year **B.Tech CSE (Data Science)** student at **VIT Vellore** (2024–
 </tr>
 </table>
 
-**Flagship projects** *(add the repo link as each one goes public)*
+**Featured projects**
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**AI-PDF-Chatbot**](https://github.com/DibbankurDey) | AI-powered PDF chatbot: upload documents and ask questions, answered with retrieval-augmented generation | Python, LLMs, RAG |
+| [**Self Navigation Vision System**](https://github.com/DibbankurDey/Self-Navigation-Vision-System) | Real-time vision-based navigation assistant with object detection and a Streamlit interface | Python, Streamlit |
 | **AutoML Intelligence System** | Automates the ML workflow: data in, trained and evaluated models out | Python, scikit-learn |
-| **Document Q&A (RAG)** | Ask questions over your own PDFs and get grounded answers | Python, LLMs, vector search |
 | **OsTutor** | Fine-tuned chatbot that tutors Operating Systems concepts | Python, LLM fine-tuning |
-| **Plant Disease Detection** | Image-based crop disease detection aimed at farmers | Python, deep learning |
 | **CircuitDSL** | DSL for digital logic circuits with semantic error detection | Compiler design |
+
+*More repos are being added as they go public.*
+
+## 🎖️ Certifications
+
+- **Oracle Certified Professional, Java Programmer** (Java Foundations Associate), Oracle, Jul 2026
+- **Data Analytics Job Simulation**
+
+Full list on [LinkedIn](https://linkedin.com/in/dibbankur-dey-577a5631b).
 
 ---
 
