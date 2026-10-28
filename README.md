@@ -26,16 +26,6 @@ Pre-final-year **B.Tech CSE (Data Science)** student at **VIT Vellore** (2024–
 
 ---
 
-## 📈 Contributions
-
-<div align="center">
-
-<img src="./contribution-graph.svg" alt="GitHub contribution graph: 192 contributions in the last year" width="100%" />
-
-</div>
-
----
-
 ## 📊 Stats
 
 <div align="center">
