@@ -37,6 +37,16 @@ Pre-final-year **B.Tech CSE (Data Science)** student at **VIT Vellore** (2024–
 
 ---
 
+## 🎯 Activity overview
+
+<div align="center">
+
+<img src="./activity-overview.svg" alt="Activity overview: commits, pull requests, issues, code review" width="400" />
+
+</div>
+
+---
+
 ## 🧰 Tech stack & languages
 
 <table>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="340" viewBox="0 0 400 340" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="400" height="340" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="16" y="26" fill="#e6edf3" font-size="14" font-weight="600">Activity overview</text>
+<line x1="200" y1="65" x2="200" y2="265" stroke="#3fb950" stroke-width="2"/>
+<line x1="100" y1="165" x2="300" y2="165" stroke="#3fb950" stroke-width="2"/>
+<polygon points="200.0,165.0 205.1,165.0 200.0,188.7 128.8,165.0" fill="#3fb950" fill-opacity="0.35" stroke="#3fb950" stroke-width="2"/>
+<circle cx="200.0" cy="165.0" r="4" fill="#3fb950" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="205.1" cy="165.0" r="4" fill="#3fb950" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="200.0" cy="188.7" r="4" fill="#3fb950" stroke="#ffffff" stroke-width="1.5"/>
+<circle cx="128.8" cy="165.0" r="4" fill="#3fb950" stroke="#ffffff" stroke-width="1.5"/>
+<text x="200" y="50" fill="#58a6ff" font-size="13" text-anchor="middle">0%</text>
+<text x="200" y="66" fill="#58a6ff" font-size="13" text-anchor="middle">Code review</text>
+<text x="334" y="157" fill="#58a6ff" font-size="13" text-anchor="middle">5%</text>
+<text x="334" y="173" fill="#58a6ff" font-size="13" text-anchor="middle">Issues</text>
+<text x="200" y="291" fill="#58a6ff" font-size="13" text-anchor="middle">24%</text>
+<text x="200" y="307" fill="#58a6ff" font-size="13" text-anchor="middle">Pull requests</text>
+<text x="66" y="157" fill="#58a6ff" font-size="13" text-anchor="middle">71%</text>
+<text x="66" y="173" fill="#58a6ff" font-size="13" text-anchor="middle">Commits</text>
+<text x="16" y="328" fill="#8b949e" font-size="10">Last 12 months · commits, pull requests, issues and code review</text></svg>
