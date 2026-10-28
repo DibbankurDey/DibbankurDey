@@ -41,7 +41,7 @@ Pre-final-year **B.Tech CSE (Data Science)** student at **VIT Vellore** (2024–
 
 <table>
 <tr>
-<td valign="top"><img src="./contributions.svg" alt="182 contributions in 2026" width="680" /></td>
+<td valign="top"><img src="./contributions-2026.svg" alt="182 contributions in 2026" width="680" /></td>
 <td valign="top" align="center">
 <a href="https://github.com/DibbankurDey?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://img.shields.io/badge/2026-238636?style=for-the-badge&labelColor=238636" alt="2026" /></a><br>
 <a href="https://github.com/DibbankurDey?tab=overview&from=2025-01-01&to=2025-12-31"><img src="https://img.shields.io/badge/2025-21262d?style=for-the-badge&labelColor=21262d" alt="2025" /></a><br>
